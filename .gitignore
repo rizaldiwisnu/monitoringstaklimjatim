@@ -1,0 +1,17 @@
+# Local database/application config
+config.php
+.env
+.env.*
+
+# Local admin/bootstrap scripts
+create_admin.php
+
+# Logs and runtime output
+*.log
+debug.log
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
